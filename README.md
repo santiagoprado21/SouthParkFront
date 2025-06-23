@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # South Park Club
 
 Sistema de reservas para el club deportivo South Park.
@@ -36,3 +37,6 @@ Sistema de reservas para el club deportivo South Park.
 - `npm run build` - Construye la aplicación para producción
 - `npm run preview` - Previsualiza la build de producción
 - `npm run lint` - Ejecuta el linter
+=======
+# SouthParkFront
+>>>>>>> 37cf6ff2d2a602bdf0a5462ba96e741b77f493c0
